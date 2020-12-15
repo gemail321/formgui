@@ -15,5 +15,5 @@ formgui.exe <filename>.prs
 
 * [Official repository for ProReports](https://sourceforge.net/projects/proreports/?source=navbar)
 * [Oficial website of ProReports](https://www.proreports.pl/)
-* [Youtube presentation](https://youtu.be/YMXpXemH2XQ)
+* [YouTube presentation](https://youtu.be/YMXpXemH2XQ)
 
