@@ -1,6 +1,6 @@
 # formgui - converter binary form from ProReports to python code in format PySplieGUI(TKinter)
 
 
-$ Use
+# Usage
 
 formgui.exe <filename>.rps 
