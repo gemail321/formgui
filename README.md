@@ -3,4 +3,4 @@
 
 # Usage
 
-formgui.exe \<filename\>.rps 
+formgui.exe &#60;filename&#61;.rps 
