@@ -8,6 +8,8 @@ ProReports (http://www.proreports.pl) has embedded form designer. I have prepare
 formgui.exe <filename>.prs
 ```
 
+# Dependencies
+* phpserialize (v. 1.3)
 
 # Related links
 
