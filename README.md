@@ -14,6 +14,6 @@ formgui.exe <filename>.prs
 # Related links
 
 * [Official repository for ProReports](https://sourceforge.net/projects/proreports/?source=navbar)
-* [Oficial site of ProReports](https://www.proreports.pl/)
+* [Oficial website of ProReports](https://www.proreports.pl/)
 
 
