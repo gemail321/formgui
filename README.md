@@ -4,7 +4,7 @@ ProReports has embedded form designer. I have prepared a program (formgui) that 
 
 # Usage
 
-----
+'''
 formgui.exe &#60;filename&#62;.prs
-----
+'''
 
