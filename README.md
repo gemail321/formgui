@@ -3,4 +3,6 @@
 
 # Usage
 
-formgui.exe &#60;filename&#62;.rps 
+---
+formgui.exe &#60;filename&#62;.prs
+---
