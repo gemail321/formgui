@@ -8,6 +8,10 @@ ProReports (http://www.proreports.pl) has embedded form designer. I have prepare
 formgui.exe <filename>.prs
 ```
 
-# Links
+
+# Related links
+
+* [Official repository for ProReports](https://sourceforge.net/projects/proreports/?source=navbar)
+* [Oficial site of ProReports](https://www.proreports.pl/)
 
 
